@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 
-// In this class we will store WebElements common to all pages
+// In this class we will store WebElements common to all pages added new line
 public class BasePage {
 
     public BasePage() {
